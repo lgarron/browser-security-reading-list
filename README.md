@@ -1,4 +1,4 @@
-# Web Security Reading List and References
+# Browser Security Reading List and References
 
 Very incomplete at the moment.
 
