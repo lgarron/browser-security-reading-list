@@ -1,6 +1,11 @@
 # Browser Security Reading List and References
 
-Very incomplete at the moment.
+There are a lot of lists about cryptography and security.
+This is my personal list, focused on documents that are relevant to my work on the [Chrome security UX team](https://www.chromium.org/Home/chromium-security/enamel).
+
+It simultaneously lets me document the kinds of things one needs to know to work in my area, and gives me an easy way to find references I may need in the future (either for myself, or to give to others).
+
+Expect it to be incomplete at all times.
 
 ## Origin
 
