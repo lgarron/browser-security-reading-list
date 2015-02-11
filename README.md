@@ -16,5 +16,5 @@ HTTP Strict Transport Security is a mechanism for a server to tell a browser "on
 
 - [RFC 6797](https://tools.ietf.org/html/rfc6797): HTTP Strict Transport Security (Hodges, Jackson, and Barth)
 - [HSTS at Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
-- [chromium.org/hsts](https://www.chromium.org/hsts]: Chromium info, link to preload list and submission page.
+- [chromium.org/hsts](https://www.chromium.org/hsts): Chromium info, link to preload list and submission page.
 - [Upgrading HTTPS in Mid-Air](http://www.internetsociety.org/sites/default/files/01_4_0.pdf): An Empirical Study of Strict Transport Security and Key Pinning (Michael Kranch and Joseph Bonneau)
