@@ -7,6 +7,13 @@ It simultaneously lets me document the kinds of things one needs to know to work
 
 Expect it to be incomplete at all times.
 
+## General
+
+- [Securing the Web](https://w3ctag.github.io/web-https/) (editor: Mark Nottingham, 2015)
+- [HTML Design Principles](http://www.w3.org/TR/html-design-principles/) (editors: van Kesteren, Stachowiak, 2007)
+  - [3.2. Priority of Constituencies](http://www.w3.org/TR/html-design-principles/#priority-of-constituencies): "consider users over authors over implementors over specifiers over theoretical purity."
+
+
 ## Origin
 
 The "origin" is a (scheme, host, tuple), e.g. (https, www.google.com, 443). It is the most important concept for site isolation on the web.
