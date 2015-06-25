@@ -36,6 +36,7 @@ HTTP Strict Transport Security is a mechanism for a server to tell a browser "on
 
 - [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) book (Ivan Ristić, 2014)
 - [Why Eve and Mallory (Also) Love Webmasters](http://dl.acm.org/citation.cfm?id=2590341): A Study on the Root Causes of SSL Misconfigurations (Fahl, Acar, Perl, Smith, 2014)
+- [Here’s My Cert, So Trust Me, Maybe?](https://devd.me/papers/trustmemaybe.pdf): Understanding TLS Errors on the Web (Akhawe, Amann, Vallentin, Sommer, 2013)
 
 ## SSL/TLS Interstitials
 
