@@ -17,7 +17,7 @@ Expect it to be incomplete at all times.
 
 ## Origin
 
-The "origin" is a (scheme, host, tuple), e.g. (https, www.google.com, 443). It is the most important concept for site isolation on the web.
+The "origin" is a `(scheme, host, port)` tuple, e.g. `(https, www.google.com, 443)`. It is the most important concept for site isolation on the web.
 
 - [RFC 6454](https://tools.ietf.org/html/rfc6454): The Origin Concept (Adam Barth, 2011)
 - [Same-origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) at Wikipedia
