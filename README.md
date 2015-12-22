@@ -13,7 +13,7 @@ Expect it to be incomplete at all times.
 - [HTML Design Principles](http://www.w3.org/TR/html-design-principles/) (editors: van Kesteren, Stachowiak, 2007)
   - [3.2. Priority of Constituencies](http://www.w3.org/TR/html-design-principles/#priority-of-constituencies): "consider users over authors over implementors over specifiers over theoretical purity."
 - [Browser Security Handbook](https://code.google.com/p/browsersec/wiki/Main) (Michal Zalewski, 2008)
-
+- April King's [Crypto Explainer](https://github.com/marumari/crypto-presentation) (a fairly complete summary focused on browser crypto)
 
 ## Origin
 
