@@ -41,6 +41,7 @@ HTTP Strict Transport Security is a mechanism for a server to tell a browser "on
 ## SSL/TLS Interstitials
 
 - [Improving SSL Warnings](https://adrifelt.github.io/sslinterstitial-chi.pdf): Comprehension and Adherence (Felt, Ainslie, Reeder, Consolvo, Thyagaraja, Bettes, Harris, Grimes, 2015)
+- [Killed by Proxy](https://madiba.encs.concordia.ca/~x_decarn/papers/tls-proxy-ndss2016.pdf): Analyzing Client-end TLS Interception Software (de Carné de Carnavaletm Mannan, 2016)
 
 ## Usable Security
 
